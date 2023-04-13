@@ -1,0 +1,28 @@
+/* css external para historico.php*/
+.test{
+	border-radius: 70px !important;
+}
+
+.text-gray-dark{
+	line-height: 7 !important;
+}
+
+.hist{
+	line-height: 7 !important;
+}	
+
+.navlink{
+	color: white !important;
+}	
+
+.btn{
+	background-color: #C9E2C3 !important;
+}
+
+.btn-logout{
+	text-decoration:none; color: white !important;
+}
+
+.navbar{
+	background-color: #C9E2C3 !important;
+}
